@@ -19,6 +19,9 @@ const config: QuartzConfig = {
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
+    slugify: {
+    use: "github-slugger",
+    },
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
