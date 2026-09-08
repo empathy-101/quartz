@@ -31,6 +31,17 @@ f4(配置窗口)
 白色有就给，灰色可以不给（垂直深度）
 
 
-![[Pasted image 20260908210036.png]]
+![[Pasted image 20260908210036.png|542]]
 创建后
-![[Pasted image 20260908210702.png]]
+![[Pasted image 20260908210702.png|544]]
+## python脚本
+![[Pasted image 20260908212909.png|441]]
+link加载xtf文件
+![[Pasted image 20260908213244.png|447]]
+
+## Excel处理井数据
+![[Pasted image 20260908214706.png|395]]
+
+## Statistics
+![[Pasted image 20260908215003.png|380]]
+可以处理统计数据的值
